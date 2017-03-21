@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="iagno"
-VERSION=3.18.2
+VERSION=3.22.0
 RELEASE=1
 CATEGORY="Games"
 SUMMARY="GNOME Reversi game"
